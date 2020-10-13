@@ -10,4 +10,4 @@ app.get('/user', (req, res, next)=> {
   res.end('user')
 })
 
-app.listen(8080)
+app.listen(80)
